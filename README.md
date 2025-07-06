@@ -23,7 +23,7 @@ This is a static front-end clone of the Myntra homepage, built using **HTML** an
 - Google Fonts & Icons
 
 ## 👩‍💻 About Me
-**Kavita** – Aspiring Data Analyst  
+**Kavita**
 🎓 BSc Hons. Computer Science | Delhi University  
 📫 Email: kavita355321@gmail.com  
 📍 New Delhi, India
